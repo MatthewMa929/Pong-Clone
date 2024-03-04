@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Matth\source\repos\P1 - Copy\main.cpp(253,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matth\source\repos\P1 - Copy\main.cpp(254,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  P1.vcxproj -> C:\Users\Matth\source\repos\P1 - Copy\Debug\P1.exe
